@@ -1,8 +1,9 @@
-export default function Teste() {
-    
-    return (
-      <div>
-        teste
-      </div>
-    );
+function Teste() {
+  return (
+    <div>
+      teste 1
+    </div>
+  );
 }
+
+export default Teste;
